@@ -1,7 +1,9 @@
-1305756690
+1305757908
 Application	/home/bain/Sites/sample_app/config/application.rb	  class Application 
 ApplicationController	/home/bain/Sites/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/bain/Sites/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
+PagesController	/home/bain/Sites/sample_app/app/controllers/pages_controller.rb	class PagesController 
+PagesHelper	/home/bain/Sites/sample_app/app/helpers/pages_helper.rb	module PagesHelper
 SampleApp	/home/bain/Sites/sample_app/config/application.rb	module SampleApp
 Str	/home/bain/Sites/sample_app/public/javascripts/prototype.js	function Str(key, holder, stack)
 Type	/home/bain/Sites/sample_app/public/javascripts/prototype.js	function Type(o)
@@ -27,6 +29,7 @@ clone	/home/bain/Sites/sample_app/public/javascripts/prototype.js	function clone
 collect	/home/bain/Sites/sample_app/public/javascripts/prototype.js	function collect(iterator, context)
 compact	/home/bain/Sites/sample_app/public/javascripts/prototype.js	function compact()
 concat	/home/bain/Sites/sample_app/public/javascripts/prototype.js	function concat()
+contract	/home/bain/Sites/sample_app/app/controllers/pages_controller.rb	  def contract
 copy	/home/bain/Sites/sample_app/public/javascripts/prototype.js	function copy(methods, destination, onlyIfAbsent)
 create	/home/bain/Sites/sample_app/public/javascripts/prototype.js	function create()
 cssNameFor	/home/bain/Sites/sample_app/public/javascripts/prototype.js	function cssNameFor(key)
@@ -75,6 +78,7 @@ grep	/home/bain/Sites/sample_app/public/javascripts/prototype.js	function grep(f
 gsub	/home/bain/Sites/sample_app/public/javascripts/prototype.js	function gsub(pattern, replacement)
 handleMethod	/home/bain/Sites/sample_app/public/javascripts/rails.js	function handleMethod(element)
 handleRemote	/home/bain/Sites/sample_app/public/javascripts/rails.js	function handleRemote(element)
+home	/home/bain/Sites/sample_app/app/controllers/pages_controller.rb	  def home
 inGroupsOf	/home/bain/Sites/sample_app/public/javascripts/prototype.js	function inGroupsOf(number, fillWith)
 include	/home/bain/Sites/sample_app/public/javascripts/prototype.js	function include(object)
 include	/home/bain/Sites/sample_app/public/javascripts/prototype.js	function include(pattern)
