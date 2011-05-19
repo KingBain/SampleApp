@@ -1,4 +1,4 @@
-1305756690
+1305772028
 Application	/home/bain/Sites/sample_app/config/application.rb	  class Application 
 ApplicationController	/home/bain/Sites/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/bain/Sites/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
