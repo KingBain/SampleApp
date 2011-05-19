@@ -1,4 +1,4 @@
-1305757908
+1305771808
 Application	/home/bain/Sites/sample_app/config/application.rb	  class Application 
 ApplicationController	/home/bain/Sites/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/bain/Sites/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
@@ -7,6 +7,7 @@ PagesHelper	/home/bain/Sites/sample_app/app/helpers/pages_helper.rb	module Pages
 SampleApp	/home/bain/Sites/sample_app/config/application.rb	module SampleApp
 Str	/home/bain/Sites/sample_app/public/javascripts/prototype.js	function Str(key, holder, stack)
 Type	/home/bain/Sites/sample_app/public/javascripts/prototype.js	function Type(o)
+about	/home/bain/Sites/sample_app/app/controllers/pages_controller.rb	  def about 
 abs	/home/bain/Sites/sample_app/public/javascripts/prototype.js	function abs()
 absolutize	/home/bain/Sites/sample_app/public/javascripts/prototype.js	function absolutize(element)
 addMethods	/home/bain/Sites/sample_app/public/javascripts/prototype.js	function addMethods(source)
